@@ -20,9 +20,8 @@
 
 ![Eduardoldviana's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoldviana&show_icons=true&theme=tokyonight)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardoldviana)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/edu.ldv)
 
 ![Eduardoldviana's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=eduardoldviana&theme=tokyonight)
 
