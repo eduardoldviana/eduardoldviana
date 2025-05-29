@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.pfps.gg/banners/5584-pingu.png" alt="pingu" width="550px" />
+  <img src="https://cdn.pfps.gg/banners/5584-pingu.png" alt="pingu" width="750px" />
 </p>
 <h2 align="center">Estou aprendendo:</h2>
 <p align="center">
