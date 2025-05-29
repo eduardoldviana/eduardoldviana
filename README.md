@@ -31,3 +31,18 @@
 
 > “God is most glorified in us when we are most satisfied in Him”
 ― John Piper
+>
+> <blockquote>
+  <p>
+    “God is most glorified in us when we are most satisfied in Him”  
+    <br>― John Piper
+  </p>
+  <p align="right">
+    <a href="https://github.com/eduardoldviana">
+      <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/edu.ldv">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+  </p>
+</blockquote>
