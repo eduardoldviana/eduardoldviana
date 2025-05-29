@@ -18,3 +18,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoldviana&layout=compact&theme=tokyonight)
 
+![Eduardoldviana's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoldviana&show_icons=true&theme=tokyonight)
