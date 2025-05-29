@@ -17,9 +17,9 @@
 ![Snake animation](https://github.com/eduardoldviana/eduardoldviana/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoldviana&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoldviana&layout=compact&theme=tokyonight" height="170" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardoldviana&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardoldviana&show_icons=true&theme=tokyonight" height="170" />
 </div>
 
 
