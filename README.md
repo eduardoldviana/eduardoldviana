@@ -21,7 +21,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=eduardoldviana&show_icons=true&theme=tokyonight" height="180" />
 </div>
-
+<br>
 
 ![Eduardoldviana's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=eduardoldviana&theme=tokyonight)
 
