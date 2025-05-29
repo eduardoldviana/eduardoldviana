@@ -13,4 +13,6 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width="40" height="40"/>
 </p>
 
-![Snake animation](https://github.com/eduardoldviana/eduardoldviana/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://eduardoldviana.github.io/eduardoldviana/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
