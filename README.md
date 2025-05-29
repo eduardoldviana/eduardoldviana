@@ -29,7 +29,6 @@
 ![Eduardoldviana's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=eduardoldviana&theme=tokyonight)
 
 <p align="center">
-> “God is most glorified in us when we are most satisfied in Him”
-― John Piper
->
-</p>
+    “God is most glorified in us when we are most satisfied in Him”  
+    <br>― John Piper
+  </p>
