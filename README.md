@@ -13,4 +13,3 @@
 </p>
 
 ![Snake animation](https://github.com/eduardoldviana/eduardoldviana/blob/output/github-contribution-grid-snake.svg)
-![Snake gif](https://github.com/eduardoldviana/eduardoldviana/blob/output/github-contribution-grid-snake.svg)
