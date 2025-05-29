@@ -24,8 +24,16 @@
 
 ![Eduardoldviana's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=eduardoldviana&theme=tokyonight)
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardoldviana)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/edu.ldv)
+<p align="center">
+  <a href="https://github.com/eduardoldviana">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://instagram.com/edu.ldv">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
     “God is most glorified in us when we are most satisfied in Him”  
