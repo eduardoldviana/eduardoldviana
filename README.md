@@ -15,3 +15,6 @@
 </p>
 
 ![Snake animation](https://github.com/eduardoldviana/eduardoldviana/blob/output/github-contribution-grid-snake.svg)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoldviana&layout=compact&theme=tokyonight)
+
