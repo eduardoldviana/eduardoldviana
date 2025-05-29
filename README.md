@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/pingu/images/9/92/Pingu_ruins_the_table.png/revision/latest/scale-to-width-down/1000?cb=20230925221930" alt="pingu" width="700px" />
+  <img src="https://static.wikia.nocookie.net/pingu/images/9/92/Pingu_ruins_the_table.png/revision/latest/scale-to-width-down/1000?cb=20230925221930" alt="pingu" width="550px" />
 </p>
 <h2 align="center">Estou aprendendo:</h2>
 <p align="center">
