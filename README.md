@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://cdn.pfps.gg/banners/5584-pingu.png" alt="pingu" width="1000px" />
 </p>
-<h2 align="center">Estou aprendendo:</h2>
+<h1 align="center">Learning:</h1>
 <p align="center">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
