@@ -27,4 +27,5 @@
 ![Eduardoldviana's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=eduardoldviana&theme=tokyonight)
 
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “God is most glorified in us when we are most satisfied in Him”
+― John Piper
