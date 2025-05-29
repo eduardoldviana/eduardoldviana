@@ -12,4 +12,4 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
-![Snake animation](https://github.com/eduardoldviana/eduardoldviana/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://eduardoldviana.github.io/eduardoldviana/github-contribution-grid-snake.svg)
