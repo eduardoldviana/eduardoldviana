@@ -1,6 +1,11 @@
-![snake svg](https://github.com/eduardoldviana/eduardoldviana/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/eduardoldviana/eduardoldviana/blob/output/github-contribution-grid-snake.gif)
 
+---
 
+## Meu quadro oficial de contribuições
 
-![isso mesmo](https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2024/10/21151641/Pingu.jpg "Pingu")
+![contributions](https://github.com/eduardoldviana.png?size=160)
+<p align="center">
+  <img src="https://github.com/eduardoldviana/eduardoldviana/blob/output/github-contribution-grid-snake.gif" width="500" />
+</p>
 
