@@ -32,4 +32,4 @@
 > “God is most glorified in us when we are most satisfied in Him”
 ― John Piper
 >
-<\p>
+</p>
