@@ -16,9 +16,10 @@
 
 ![Snake animation](https://github.com/eduardoldviana/eduardoldviana/blob/output/github-contribution-grid-snake.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoldviana&layout=compact&theme=tokyonight)
-
-![Eduardoldviana's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoldviana&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoldviana&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardoldviana&show_icons=true&theme=tokyonight" height="165" />
+</div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardoldviana)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/edu.ldv)
