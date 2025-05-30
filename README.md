@@ -30,6 +30,9 @@
   <a href="https://react.dev" target="_blank">
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
   </a>
+  <a href="https://mysql.com" target="_blank">
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  </a>
 </p>
 
 
