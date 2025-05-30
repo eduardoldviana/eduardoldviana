@@ -61,7 +61,6 @@
     <br>― John Piper
   </p>
 
-## 📊 GitHub Stats
+[🎮 Jogue o mini-game “Math Invaders”!](https://seu-usuario.github.io/math-invaders)
+![Visitantes](https://komarev.com/ghpvc/?username=seu-usuario&label=Visitantes&color=blue)
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
