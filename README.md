@@ -60,3 +60,8 @@
     “God is most glorified in us when we are most satisfied in Him”  
     <br>― John Piper
   </p>
+
+## 📊 GitHub Stats
+
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
