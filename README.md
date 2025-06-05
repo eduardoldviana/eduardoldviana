@@ -61,6 +61,5 @@
     <br>― John Piper
   </p>
 
-[🎮 Jogue o mini-game “Math Invaders”!](https://seu-usuario.github.io/math-invaders)
-![Visitantes](https://komarev.com/ghpvc/?username=seu-usuario&label=Visitantes&color=blue)
+![Visitantes](https://komarev.com/ghpvc/?username=seu-usuario&label=Visitantes&color=red)
 
