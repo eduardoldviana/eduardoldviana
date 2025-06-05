@@ -33,7 +33,7 @@
   <a href="https://mysql.com" target="_blank">
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
   </a>
-  <i class="devicon-flask-original"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
 </p>
 
 
