@@ -34,7 +34,6 @@
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
   </a>
 </p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
 
 ![Snake animation](https://github.com/eduardoldviana/eduardoldviana/blob/output/github-contribution-grid-snake.svg)
 
