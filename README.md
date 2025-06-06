@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://cdn.pfps.gg/banners/5584-pingu.png" alt="pingu" width="1000px" />
-</p>
 <h1 align="center">Learning:</h1>
 <p align="center">
   <a href="https://www.python.org" target="_blank">
