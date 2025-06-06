@@ -1,4 +1,4 @@
-<h1 align="center">Learning:</h1>
+
 <p align="center">
   <a href="https://www.python.org" target="_blank">
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
