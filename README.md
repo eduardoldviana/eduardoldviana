@@ -33,6 +33,7 @@
   </a>
 </p>
 <hr>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoldviana&layout=compact&theme=tokyonight" height="180" />
   &nbsp;&nbsp;&nbsp;&nbsp;
