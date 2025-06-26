@@ -40,15 +40,6 @@
   </a>
 </p>
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoldviana&layout=compact&theme=tokyonight" height="180" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardoldviana&show_icons=true&theme=tokyonight" height="180" />
-</div>
-<br>
-![Eduardoldviana's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=eduardoldviana&theme=tokyonight)
-
 <p align="center">
   <a href="https://github.com/eduardoldviana">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
