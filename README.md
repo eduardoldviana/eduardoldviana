@@ -32,7 +32,7 @@
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
   </a>
 </p>
-|
+<hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoldviana&layout=compact&theme=tokyonight" height="180" />
   &nbsp;&nbsp;&nbsp;&nbsp;
