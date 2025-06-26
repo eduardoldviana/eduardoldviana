@@ -3,10 +3,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=eduardoldviana&show_icons=true&theme=tokyonight" height="180" />
 </div>
-
-
-
-
+<hr>
 <p align="center">
   <a href="https://www.python.org" target="_blank">
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
@@ -39,7 +36,7 @@
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
   </a>
 </p>
-
+<hr>
 <p align="center">
   <a href="https://github.com/eduardoldviana">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
@@ -48,7 +45,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
+<hr>
 <p align="center">
     “God is most glorified in us when we are most satisfied in Him”  
     <br>― John Piper
